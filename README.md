@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.instagram.com/sg_t21/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.instagram.com/sg_t21/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sg_t21/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/sg_t21/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://choxue.com/players/55212/%e5%ae%8b%e9%8e%94%e5%ae%87/statistics" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="https://choxue.com/players/55212/%e5%ae%8b%e9%8e%94%e5%ae%87/statistics" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jaeyongyu.song" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.instagram.com/sg_t21/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sg_t21/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/sg_t21/" height="30" width="40" /></a>
+<a href="https://choxue.com/players/55212/%E5%AE%8B%E9%8E%94%E5%AE%87" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="https://choxue.com/players/55212/%e5%ae%8b%e9%8e%94%e5%ae%87/statistics" height="30" width="40" /></a>
 <a href="https://youtu.be/EjyoPyROIi0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/watch?v=ejyopyroii0&t=49s" height="30" width="40" /></a>
 </p>
 
